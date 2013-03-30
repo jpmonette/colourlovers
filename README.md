@@ -71,7 +71,7 @@ COLOURlovers.get('/colors', { format: 'xml' }, function(err, data) {
 ## More Information
 
 * [COLOURlovers Official Website](http://www.colourlovers.com/)
-* [COLOURlovers API for Node.js in the NPM Registry](npmjs.org/package/colourlovers)
+* [COLOURlovers API for Node.js in the NPM Registry](http://npmjs.org/package/colourlovers)
 * Follow me ([@jpmonette](https://twitter.com/jpmonette)) on Twitter for updates
 * Read my personal blog [Blogue de Jean-Philippe Monette](http://blogue.jpmonette.net/) to learn more about what I do!
 
