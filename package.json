@@ -1,6 +1,6 @@
 {
-	"name":			"COLOURlovers",
-	"version":		"0.1.0",
+	"name":			"colourlovers",
+	"version":		"0.1.1",
 	"description": 	"COLOURlovers for Node.js is a connection library for COLOURlovers API, giving you access to an infinite database of colors, palettes, patterns and a lot more provided by COLOURlovers.",
 	"homepage": 	"https://github.com/jpmonette/colourlovers",
 	"author":		"Jean-Philippe Monette <contact@jpmonette.net>",
@@ -16,7 +16,7 @@
 	],
 	
 	"dependencies": {
-		"restful": "*"
+		"restler": "*"
 	},
 
 	"engines": {
